@@ -1,0 +1,18 @@
+{
+  "name": "چک‌لیست پروژه‌های طراحی",
+  "short_name": "پروژه‌های طراحی",
+  "description": "چک‌لیست شخصی پروژه‌های طراحی با ددلاین شمسی، اولویت، آمار و تقویم",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0912",
+  "theme_color": "#0a0912",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
