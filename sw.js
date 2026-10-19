@@ -1,5 +1,5 @@
 /* Offline cache for the design checklist. Bump CACHE when files change. */
-const CACHE = 'design-checklist-v1';
+const CACHE = 'design-checklist-v2';
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png", "./apple-touch-icon.png", "./fonts/lalezar-arabic-400-normal.woff2", "./fonts/lalezar-latin-400-normal.woff2", "./fonts/vazirmatn-arabic-400-normal.woff2", "./fonts/vazirmatn-arabic-500-normal.woff2", "./fonts/vazirmatn-arabic-700-normal.woff2", "./fonts/vazirmatn-arabic-800-normal.woff2", "./fonts/vazirmatn-latin-400-normal.woff2", "./fonts/vazirmatn-latin-700-normal.woff2"];
 
 self.addEventListener('install', (e) => {
